@@ -8,7 +8,12 @@
 ## :zap: Technologies
 
 ### Contact
-* You can find me in [LinkedIn]:https://www.linkedin.com/in/luciano-riente-7551901b1/?locale=en_US
+* You can find me in [LinkedIn]
+
+
+
+
+[LinkedIn]:https://www.linkedin.com/in/luciano-riente-7551901b1/?locale=en_US
 
 <!--
 **Lucssiano/lucssiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
