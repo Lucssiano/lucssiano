@@ -1,4 +1,4 @@
-### Hi, I'm Luciano Riente 👋
+# Hi, I'm Luciano Riente 👋
 
 * :books: Currently, i am studying Front-end technologies on my own and i have been studying in the technical secondary school "Instituto San Judas Tadeo" (in the "Electronics" expertise)
 * :mag_right: I consider myself a responsible person and concerned about doing the things in the right way. It bothers me not knowing how something works , so i always try to find information and learn.
