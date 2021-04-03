@@ -5,6 +5,11 @@
 * :mag_right: I consider myself a responsible person and concerned about doing the things in the right way. It bothers me not knowing how something works , so i always try to find information and learn.
 * :money_with_wings: My goal is to get work experience , getting better slowly and above all to incorporate new knowledge.
 
+## :zap: Technologies
+
+### Contact
+* You can find me in [LinkedIn]:https://www.linkedin.com/in/luciano-riente-7551901b1/?locale=en_US
+
 <!--
 **Lucssiano/lucssiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
