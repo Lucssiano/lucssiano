@@ -7,7 +7,7 @@
 
 ## :zap: Technologies
 
-### :mailbox_closed: Contact
+## :mailbox_closed: Contact
 * You can find me in [LinkedIn]
 
 
