@@ -1,6 +1,6 @@
 # Hi, I'm Luciano Riente 👋
 
-## :star: About Myself :star:
+## :star: About Myself:
 * :books: Currently, i am studying Front-end technologies on my own and i have been studying in the technical secondary school "Instituto San Judas Tadeo" (in the "Electronics" expertise)
 * :mag_right: I consider myself a responsible person and concerned about doing the things in the right way. It bothers me not knowing how something works , so i always try to find information and learn.
 * :money_with_wings: My goal is to get work experience , getting better slowly and above all to incorporate new knowledge.
