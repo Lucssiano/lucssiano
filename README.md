@@ -1,5 +1,7 @@
 # Hi, I'm Luciano Riente 👋
 
+![Gif](GIF.gif 'GIF: https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69')
+
 ---
 
 ## :fire: About Myself
@@ -12,11 +14,13 @@
 
 ## :zap: Technologies
 
-<!-- ![logo](html.png "Logo Title Text 1") -->
-
-<img src="html.png" width="95px"/><img src="css.png" width="95px"/><img src="javascript.png" width="95px"/><img src="git.png" width="95px"/>
+<img src="html.png" width="95px" alt="HTML logo"/><img src="css.png" width="95px" alt="CSS logo"/><img src="javascript.png" width="95px" alt="Javascript logo"/><img src="git.png" width="95px" alt="GIT logo"/>
 
 ---
+
+## :page_with_curl: Portfolio
+
+**En construcción...** :wrench:
 
 ## :mailbox_closed: Contact
 
