@@ -1,7 +1,9 @@
 # Hi, I'm Luciano Riente 👋
 
-<!-- ![Gif](GIF.gif 'GIF: https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69') -->
-<img src="GIF.gif" width="550px" alt="gif - https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69 "/>
+![Gif](GIF.gif 'GIF: https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69')
+
+<!-- ![Gif](GIF2.gif) -->
+<!-- ![Gif](GIF3.gif) -->
 
 ---
 
@@ -21,7 +23,7 @@
 
 ## :page_with_curl: Portfolio
 
-#### En construcción... :hammer:
+### En construcción... :hammer:
 
 ## :mailbox_closed: Contact
 
