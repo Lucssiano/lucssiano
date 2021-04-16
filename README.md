@@ -23,7 +23,7 @@
 
 ## :page_with_curl: Portfolio
 
-### En construcción... :hammer:
+### In construction... :hammer:
 
 ---
 
