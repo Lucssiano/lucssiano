@@ -23,7 +23,7 @@
 
 ## :page_with_curl: Portfolio
 
-### In construction... :hammer:
+- You can see it [here]
 
 ---
 
@@ -34,6 +34,7 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/luciano-riente-7551901b1/?locale=en_US
+[here]: https://lucssiano.github.io/Portfolio/
 
 <!--
 **Lucssiano/lucssiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
