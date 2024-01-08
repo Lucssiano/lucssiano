@@ -33,7 +33,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/luciano-riente-7551901b1/?locale=en_US
+[linkedin]: https://www.linkedin.com/in/lucianoriente
 [here]: https://lucssiano.github.io/Portfolio/
 
 <!--
